@@ -29,7 +29,7 @@ echo "<form action=\"javascript:selectLang()\" target=\"_parent\" method=\"post\
 echo "<select name=\"lang_opt\" id=\"lang_opt\" autocomplete=\"off\" onchange=\"selectLang(this.value);\">";
           echo "<option value=\"0\" select=\"selected\">---Select Language---</option>";
           echo "<option value=\"1\">English</option>";
-	  echo "<option value=\"2\">Hindi</option>";
+	#  echo "<option value=\"2\">Hindi</option>";
           
 echo "</select>"; ?>
 <br/><br/> 
